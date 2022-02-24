@@ -1,4 +1,6 @@
 {
+  "name": "wiggln-and-jiggln",
+  "version": "1.0.0",
   "dependencies": {
     "robotjs": "^0.6.0"
   }
